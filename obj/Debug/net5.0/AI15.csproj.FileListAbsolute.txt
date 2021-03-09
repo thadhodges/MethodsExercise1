@@ -1,0 +1,16 @@
+c:\WORK\REPO\AI15\bin\Debug\net5.0\AI15.exe
+c:\WORK\REPO\AI15\bin\Debug\net5.0\AI15.deps.json
+c:\WORK\REPO\AI15\bin\Debug\net5.0\AI15.runtimeconfig.json
+c:\WORK\REPO\AI15\bin\Debug\net5.0\AI15.runtimeconfig.dev.json
+c:\WORK\REPO\AI15\bin\Debug\net5.0\AI15.dll
+c:\WORK\REPO\AI15\bin\Debug\net5.0\ref\AI15.dll
+c:\WORK\REPO\AI15\bin\Debug\net5.0\AI15.pdb
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.csprojAssemblyReference.cache
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.GeneratedMSBuildEditorConfig.editorconfig
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.AssemblyInfoInputs.cache
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.AssemblyInfo.cs
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.csproj.CoreCompileInputs.cache
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.dll
+c:\WORK\REPO\AI15\obj\Debug\net5.0\ref\AI15.dll
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.pdb
+c:\WORK\REPO\AI15\obj\Debug\net5.0\AI15.genruntimeconfig.cache
