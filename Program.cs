@@ -18,8 +18,8 @@ namespace AI15
             Console.WriteLine("Cool, I like" + " " + spirit +"!  What is your fav hobby?");
             var hobby = Console.ReadLine();
             Console.WriteLine("OMG...I am all about some" + " " + hobby + ". By the way, are you a Mac or Windows kind of person?");
-            var computer_type = Console.ReadLine();
-            Console.WriteLine("Wow!" + " " + computer_type + " is the worst choice...LOL! TTYL sucker!");
+            var winmac = Console.ReadLine();
+            Console.WriteLine("Wow!" + " " + winmac + " is the worst choice...LOL! TTYL sucker!");
         }
     }
 }
